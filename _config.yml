@@ -5,3 +5,4 @@ author: Piyush Varanjani
 # Hide the site title at the top
 header_pages:
   - about.md
+  - goodreads.md
