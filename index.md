@@ -15,7 +15,6 @@ I am currently exploring new ideas and traveling the world.
 
 I am at 42piyush [at] gmail dot com if you're building in AI and want to talk on product/GTM.
 
-##
 Unfiltered stream of thoughts: [X](https://x.com/42piyush)
 
 Filtered: [Linkedin](https://www.linkedin.com/in/piyushvjani/)
