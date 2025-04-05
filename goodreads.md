@@ -12,7 +12,7 @@ Here's a curated list of books, articles, and other content that I've found valu
 
 - **[Everything that turned out well in my life followed the same design process](https://www.henrikkarlsson.xyz/p/unfolding)** by Henrik Karlsson - Find the form that fits the context
 - **[How to choose a career that fits you](https://waitbutwhy.com/2018/04/picking-career.html)** by Tim Urban - If you're too hard on yourself and less on society
-- **[Your life is driven by network effects]https://www.nfx.com/post/your-life-network-effects)** by James Currier - The Unseen Forces That Guide Your Life
+- **[Your life is driven by network effects](https://www.nfx.com/post/your-life-network-effects)** by James Currier - The Unseen Forces That Guide Your Life
 - **[How to Do Great Work](http://paulgraham.com/greatwork.html)** by Paul Graham
 
 
