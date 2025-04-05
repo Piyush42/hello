@@ -1,3 +1,7 @@
 title: Piyush Varanjani
 description: Entrepreneur focused on product and GTM
 theme: minima
+author: Piyush Varanjani
+# Hide the site title at the top
+header_pages:
+  - about.md
