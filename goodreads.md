@@ -18,8 +18,7 @@ Here's a curated list of books, articles, and other content that I've found valu
 
 
 #### Underrated artists or BTS
-  - **[Art is dead](https://www.youtube.com/watch?v=Eo9pU1q8sy8)** by Bo Burnham - So people think you're funny, how do you get those people's money?
-  - 
+  - **[Art is dead](https://www.youtube.com/watch?v=Eo9pU1q8sy8)** by Bo Burnham - _So people think you're funny, how do you get those people's money?_
 
 #### Blogs and newsletters
 
