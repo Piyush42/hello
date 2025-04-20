@@ -6,6 +6,8 @@ layout: home
 
 In university, I spent more time working on startups than studying. Since then I've been working with startups and sacled across Singapore, Silicon Valley, and Europe.
 
+I have won some [48-hours](https://www.facebook.com/moesingapore/posts/congratulations-to-piyush-varanjani-a-final-year-information-systems-student-at-/10155302983587004/) hackathons but probabaly more proud of winning 48 hour film festivals.
+
 ## Investments
 Some founders believed in me and I got to invest in a few of them:
 - [Locofy.ai](https://www.locofy.ai/): Turn your designs into production-ready frontend code
@@ -15,6 +17,9 @@ I am currently exploring new ideas and traveling the world.
 
 I am at 42piyush [at] gmail dot com if you're building in AI and want to talk on product/GTM.
 
-Unfiltered stream of thoughts: [X](https://x.com/42piyush)
+[X](https://x.com/42piyush): Unfiltered stream of thoughts: 
 
-Filtered: [Linkedin](https://www.linkedin.com/in/piyushvjani/)
+[Linkedin](https://www.linkedin.com/in/piyushvjani/): Filtered. 
+
+If I were not into technology, I'd be a struggling moviemaker or a happily frustrated technocrat.
+
