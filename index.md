@@ -23,3 +23,5 @@ I am at 42piyush [at] gmail dot com if you're building in AI and want to talk on
 
 If I were not into technology, I'd be a struggling moviemaker or a happily frustrated technocrat.
 
+Luckily, I have friends and family who don't care about any of the above stuff.
+
