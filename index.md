@@ -2,7 +2,7 @@
 layout: home
 ---
 
-👋 I am an entrepreneur focused on product and GTM. Recently I was at Stripe focused on GTM in APAC. I have worked at other scaleups like TransferWise (~4 years) and other startups. 
+👋 I am an entrepreneur focused on product and GTM. Recently I was at Stripe focused on GTM/product in Asia Pacific for four years. Before that I was at another fintech, Wise (fka TransferWise) for another four years working on prouct and growth (launching new countries/products).
 
 In university, I spent more time working on startups than studying. Since then I've been working with startups and sacled across Singapore, Silicon Valley, and Europe.
 
