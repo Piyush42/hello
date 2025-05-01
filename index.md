@@ -6,7 +6,7 @@ layout: home
 
 In university, I spent more time working on startups than studying. Since then I've been working with startups and sacled across Singapore, Silicon Valley, and Europe.
 
-I have won a few 48-hours hackathons internationally in [Israel](https://blogs.timesofisrael.com/why-chutzpah-could-be-startup-nations-greatest-startup-secret-export/), [Canada (Hack The North)](https://www.facebook.com/moesingapore/posts/congratulations-to-piyush-varanjani-a-final-year-information-systems-student-at-/10155302983587004/), but probabaly more proud of winning 48 hour film festivals.
+I have won a few 48-hours hackathons internationally in [Canada (Hack The North)](https://www.facebook.com/moesingapore/posts/congratulations-to-piyush-varanjani-a-final-year-information-systems-student-at-/10155302983587004/), [Israel (Startup Pirates)](https://blogs.timesofisrael.com/why-chutzpah-could-be-startup-nations-greatest-startup-secret-export/), but probabaly more proud of winning 48 hour film festivals.
 
 ## Investments
 Some founders believed in me and I got to invest in a few of them:
