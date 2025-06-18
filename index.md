@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 ---
 
 👋 I am an entrepreneur focused on product and GTM. Recently I was at Stripe focused on GTM/product in Asia Pacific for four years. Before that I was at another fintech, Wise (fka TransferWise) for another four years working on prouct and growth (launching new countries/products).
