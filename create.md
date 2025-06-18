@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Movies
+title: Created
 permalink: /create/
 ---
 
