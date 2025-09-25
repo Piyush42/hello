@@ -2,9 +2,7 @@
 layout: page
 ---
 
-👋 I am an entrepreneur focused on product and GTM. Recently I was at Stripe focused on GTM/product in Asia Pacific for four years. Before that I was at another fintech, Wise (fka TransferWise) for another four years working on prouct and growth (launching new countries/products).
-
-In university, I spent more time working on startups than studying. Since then I've been scaling startups across APAC (via Singapore), Silicon Valley, and Europe.
+👋 I love to create, previously did product, GTM and growth at Stripe, Wise (fka TransferWise) and a few other startups. In university, I spent more time working on startups than studying. Since then I've been scaling startups across Silicon Valley, APAC (via Singapore), Israel, and Europe.
 
 I have won a few 48-hours hackathons internationally in [Canada (Hack The North)](https://www.facebook.com/moesingapore/posts/congratulations-to-piyush-varanjani-a-final-year-information-systems-student-at-/10155302983587004/), [Israel (Startup Pirates)](https://blogs.timesofisrael.com/why-chutzpah-could-be-startup-nations-greatest-startup-secret-export/), but probabaly more proud of winning 48 hour film festivals - some work [here](https://piyush42.github.io/hello/create/). 
 
