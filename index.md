@@ -6,15 +6,14 @@ I sleep happy when I create.
 
 Previously worked on product, GTM and growth at Stripe, Wise (fka TransferWise) and a few other startups. In university, I spent more time working on startups than studying. Since then I've been scaling startups across Silicon Valley, APAC (via Singapore), Israel, and Europe.
 
-## Now
+### Now
 I am in San Francisco, currently building an AI.
 
-## Investments
+### Investments
 Some founders believed in me and I got to invest in a few of them:
 - [Locofy.ai](https://www.locofy.ai/): Turn your designs into production-ready frontend code
 - [Defog.ai](https://defog.ai/) (YC W23): AI-powered analytics and insights
 
-If you're building something groundbreaking in AI and want to talk on product/GTM, I am at 42piyush [at] gmail dot com. 
 
 [X](https://x.com/42piyush): Unfiltered stream of thoughts: 
 
