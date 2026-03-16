@@ -24,6 +24,3 @@ Some friends who I got to invest in:
 
 I am not actively investing in any new startups, except mine.
 
----
-
-*सत्-चित्-आनन्द (Sat-Chit-Ananda)*
