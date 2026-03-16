@@ -4,7 +4,7 @@ layout: page
 
 I sleep happy when I create. 
 
-Currently living in San Francisco, building an AI.
+Currently living in San Francisco, building in AI.
 
 Previously worked on product and growth at Stripe, Wise (fka TransferWise) and a few other startups. Started coding in a computer lab in a small city in India, made first real money in a tech internship in Israel, and since then been building/scaling startups across Silicon Valley, Asia (Singapore), and Europe (Estonia, London).
 
@@ -12,7 +12,7 @@ Previously worked on product and growth at Stripe, Wise (fka TransferWise) and a
 
 [Linkedin](https://www.linkedin.com/in/piyushvjani/): Filtered
 
-If I were not into technology, I'd be a struggling moviemaker or a happily frustrated technocrat.
+If I were not into technology, I'd be a [struggling director](https://42piyush.com/create/) or a happily frustrated technocrat.
 
 Luckily, I have friends and family who don't care about any of the above stuff.
 
