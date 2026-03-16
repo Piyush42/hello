@@ -23,3 +23,7 @@ If you're building something groundbreaking in AI and want to talk on product/GT
 If I were not into technology, I'd be a struggling moviemaker or a happily frustrated technocrat.
 
 Luckily, I have friends and family who don't care about any of the above stuff.
+
+---
+
+*सत्-चित्-आनन्द (Sat-Chit-Ananda)*
