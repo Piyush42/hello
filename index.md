@@ -4,18 +4,18 @@ layout: page
 
 I sleep happy when I create. 
 
-Currently living in San Francisco, building in AI.
+Currently living in San Francisco. Building in insurance x AI.
 
-Previously worked on product and growth at Stripe, Wise, and a few other startups. Started coding in a computer lab in a small city in India, made first real money in a tech internship in Israel, and since then been building/scaling startups across Asia (Singapore), San Francisco, and Europe (Estonia, London).
+Previously worked on product and growth at Stripe, Wise, and early-stage startups. Started coding in a computer lab in a small city in India, made first real money during an internship in Israel, and since then I have been working in startups in Singapore, Europe (Estonia, London), New York, and San Francisco.
 
 Stream of thoughts
-- [Unfiltered](https://x.com/42piyush)
-- [Filtered](https://www.linkedin.com/in/piyushvjani/)
-- [Solidified](https://42piyush.substack.com/)
+- [Unfiltered - X](https://x.com/42piyush)
+- [Filtered - Linkedin](https://www.linkedin.com/in/piyushvjani/)
+- [Crystalized - Substack](https://42piyush.substack.com/)
 
 If I were not into tech, I'd be a [struggling director](https://42piyush.com/create/) or a happily frustrated technocrat.
 
-### First check 
+### Supporting smart friends 
 
 Some friends who I got to invest in:
 - [Locofy.ai](https://www.locofy.ai/): Turn your designs into production-ready frontend code
